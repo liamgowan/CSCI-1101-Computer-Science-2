@@ -1,0 +1,88 @@
+ ----jGRASP exec: java AddressBookDemo
+
+Enter 1 to add contact, 2 to display, 3 to search, 4 to delete or 5 to quit: 1
+Enter last name: Gowan
+Enter first name: Liam
+Enter street name: Chestnut
+Enter phone number: 9024992498
+
+Enter 1 to add contact, 2 to display, 3 to search, 4 to delete or 5 to quit: 1
+Enter last name: Bird
+Enter first name: Big
+Enter street name: Sesame
+Enter phone number: 123
+
+Enter 1 to add contact, 2 to display, 3 to search, 4 to delete or 5 to quit: 1
+Enter last name: Gowan
+Enter first name: Paul
+Enter street name: Greenough
+Enter phone number: 9021234567
+
+Enter 1 to add contact, 2 to display, 3 to search, 4 to delete or 5 to quit: 1
+Enter last name: Cullen
+Enter first name: Dominic
+Enter street name: Greenough
+Enter phone number: 9029898989
+
+Enter 1 to add contact, 2 to display, 3 to search, 4 to delete or 5 to quit: 1
+Enter last name: McCartney
+Enter first name: Paul
+Enter street name: Abbey
+Enter phone number: 18061942
+
+Enter 1 to add contact, 2 to display, 3 to search, 4 to delete or 5 to quit: 2
+
+Name 				 Street 			 Number
+Bird, Big			Sesame				123
+Cullen, Dominic			Greenough			9029898989
+Gowan, Liam			Chestnut			9024992498
+Gowan, Paul			Greenough			9021234567
+McCartney, Paul			Abbey				18061942
+
+Enter 1 to add contact, 2 to display, 3 to search, 4 to delete or 5 to quit: 3
+
+Enter what to search: Greenough
+Name 				 Street 			 Number
+Cullen, Dominic			Greenough			9029898989
+Gowan, Paul			Greenough			9021234567
+
+Enter 1 to add contact, 2 to display, 3 to search, 4 to delete or 5 to quit: 3
+
+Enter what to search: Paul
+Name 				 Street 			 Number
+Gowan, Paul			Greenough			9021234567
+McCartney, Paul			Abbey				18061942
+
+Enter 1 to add contact, 2 to display, 3 to search, 4 to delete or 5 to quit: 3
+
+Enter what to search: 9024992498
+Name 				 Street 			 Number
+Gowan, Liam			Chestnut			9024992498
+
+Enter 1 to add contact, 2 to display, 3 to search, 4 to delete or 5 to quit: 3
+
+Enter what to search: Steve
+"Steve" not found in address book.
+
+Enter 1 to add contact, 2 to display, 3 to search, 4 to delete or 5 to quit: 4
+
+Name 			 Street 			 Number
+1. Bird, Big			Sesame				123
+2. Cullen, Dominic			Greenough			9029898989
+3. Gowan, Liam			Chestnut			9024992498
+4. Gowan, Paul			Greenough			9021234567
+5. McCartney, Paul			Abbey				18061942
+
+Entry to delete: 5
+
+Enter 1 to add contact, 2 to display, 3 to search, 4 to delete or 5 to quit: 2
+
+Name 				 Street 			 Number
+Bird, Big			Sesame				123
+Cullen, Dominic			Greenough			9029898989
+Gowan, Liam			Chestnut			9024992498
+Gowan, Paul			Greenough			9021234567
+
+Enter 1 to add contact, 2 to display, 3 to search, 4 to delete or 5 to quit: 5
+Thank you for using the address book.
+ ----jGRASP: operation complete.

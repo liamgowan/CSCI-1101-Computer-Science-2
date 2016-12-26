@@ -1,0 +1,22 @@
+Test 1.
+TEST WHEN
+Rectangle2D r1 = new Rectangle2D(2, 2, 5.5, 4.9); Rectangle2D r2 = new Rectangle2D(4, 5, 10.5, 3.2);
+AND
+if(r1.contains(3,3)) 
+ ----jGRASP exec: java Rectangle2DDemo  This point does not fit inside r1. The area of r1 is: 26.950000000000003 The perimeter of r1 is: 20.8 r2 does not fit inside r1.  ----jGRASP: operation complete.
+
+Test 2.
+TEST WHEN:
+Rectangle2D r1 = new Rectangle2D(2, 5, 3, 3); Rectangle2D r2 = new Rectangle2D(3, 4, 1, 1);
+AND
+if(r1.contains(3,4)) 
+----jGRASP exec: java Rectangle2DDemo  This point does fit inside r1. The area of r1 is: 9.0 The perimeter of r1 is: 12.0 r2 fits inside r1.  ----jGRASP: operation complete.
+
+
+Test 3:
+TEST WHEN:
+Rectangle2D r1 = new Rectangle2D(2, 2, 7, 8); Rectangle2D r2 = new Rectangle2D(2, 2, 8.3, 9);
+AND
+if(r1.contains(2,1))
+
+----jGRASP exec: java Rectangle2DDemo  This point does fit inside r1. The area of r1 is: 56.0 The perimeter of r1 is: 30.0 r2 does not fit inside r1.  ----jGRASP: operation complete. 

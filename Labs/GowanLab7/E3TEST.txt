@@ -1,0 +1,47 @@
+ ----jGRASP exec: java E3
+Enter names on one line, end with -1
+Liam Taylor Noah Seychelle -1
+Enter names on one line, end with -1
+Thomas Mason Jenny Kristine -1
+[Liam]
+[Liam, Thomas]
+[Liam, Taylor, Thomas]
+[Liam, Mason, Taylor, Thomas]
+[Liam, Mason, Noah, Taylor, Thomas]
+[Jenny, Liam, Mason, Noah, Taylor, Thomas]
+[Jenny, Liam, Mason, Noah, Seychelle, Taylor, Thomas]
+[Jenny, Kristine, Liam, Mason, Noah, Seychelle, Taylor, Thomas]
+
+ ----jGRASP: operation complete.
+
+
+ ----jGRASP exec: java E3
+Enter names on one line, end with -1
+Elmo Bert Ernie -1
+Enter names on one line, end with -1
+Oscar Grover -1
+[Elmo]
+[Elmo, Oscar]
+[Bert, Elmo, Oscar]
+[Bert, Elmo, Grover, Oscar]
+[Bert, Elmo, Ernie, Grover, Oscar]
+
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java E3
+Enter names on one line, end with -1
+Mario Luigi Yoshi Toad -1
+Enter names on one line, end with -1
+Peach Bowser Ness Wario Pikachu Kirby Zelda -1
+[Mario]
+[Mario, Peach]
+[Luigi, Mario, Peach]
+[Bowser, Luigi, Mario, Peach]
+[Bowser, Luigi, Mario, Peach, Yoshi]
+[Bowser, Luigi, Mario, Ness, Peach, Yoshi]
+[Bowser, Luigi, Mario, Ness, Peach, Toad, Yoshi]
+[Bowser, Luigi, Mario, Ness, Peach, Toad, Wario, Yoshi]
+[Bowser, Luigi, Mario, Ness, Peach, Pikachu, Toad, Wario, Yoshi]
+[Bowser, Kirby, Luigi, Mario, Ness, Peach, Pikachu, Toad, Wario, Yoshi]
+
+ ----jGRASP: operation complete.

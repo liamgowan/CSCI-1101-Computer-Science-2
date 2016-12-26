@@ -1,0 +1,212 @@
+ ----jGRASP exec: java Demo
+Welcome to WAR! Let's Play!
+
+Enter the first player's name: Liam
+Enter the second player's name: Thomas
+LIAM			#Cards		THOMAS			#Cards		Winner
+6 Clubs         	26		Ace Spades         	26		THOMAS
+9 Spades         	25		8 Clubs         	27		LIAM
+3 Spades         	26		8 Diamonds         	26		THOMAS
+6 Diamonds         	25		10 Clubs         	27		THOMAS
+4 Diamonds         	24		Jack Hearts         	28		THOMAS
+Ace Clubs         	23		9 Clubs         	29		LIAM
+Ace Diamonds         	24		2 Hearts         	28		LIAM
+Ace Hearts         	25		10 Diamonds         	27		LIAM
+5 Diamonds         	26		King Hearts         	26		THOMAS
+7 Spades         	25		Jack Clubs         	27		THOMAS
+Queen Clubs         	24		Queen Diamonds         	28		WAR!
+*****************************************WAR******************************************
+Queen Clubs         	24		Queen Diamonds         	28		THOMAS
+***************************************END WAR****************************************
+King Spades         	20		6 Spades         	32		LIAM
+2 Diamonds         	21		5 Spades         	31		THOMAS
+2 Clubs         	20		7 Hearts         	32		THOMAS
+3 Diamonds         	19		8 Hearts         	33		THOMAS
+4 Clubs         	18		3 Hearts         	34		LIAM
+Queen Spades         	19		9 Diamonds         	33		LIAM
+King Clubs         	20		2 Spades         	32		LIAM
+6 Hearts         	21		9 Hearts         	31		THOMAS
+Queen Hearts         	20		10 Hearts         	32		LIAM
+5 Clubs         	21		8 Spades         	31		THOMAS
+Jack Spades         	20		Jack Diamonds         	32		WAR!
+*****************************************WAR******************************************
+Jack Spades         	20		Jack Diamonds         	32		THOMAS
+***************************************END WAR****************************************
+9 Clubs         	16		3 Spades         	36		LIAM
+Ace Clubs         	17		8 Diamonds         	35		LIAM
+2 Hearts         	18		6 Diamonds         	34		THOMAS
+Ace Diamonds         	17		10 Clubs         	35		LIAM
+10 Diamonds         	18		4 Diamonds         	34		LIAM
+Ace Hearts         	19		Jack Hearts         	33		LIAM
+6 Spades         	20		5 Diamonds         	32		LIAM
+King Spades         	21		King Hearts         	31		WAR!
+*****************************************WAR******************************************
+King Spades         	21		King Hearts         	31		THOMAS
+***************************************END WAR****************************************
+Queen Spades         	17		4 Hearts         	35		LIAM
+2 Spades         	18		10 Spades         	34		THOMAS
+King Clubs         	17		4 Spades         	35		LIAM
+10 Hearts         	18		Queen Diamonds         	34		THOMAS
+Queen Hearts         	17		3 Clubs         	35		LIAM
+3 Spades         	18		5 Hearts         	34		THOMAS
+9 Clubs         	17		King Diamonds         	35		THOMAS
+8 Diamonds         	16		2 Diamonds         	36		LIAM
+Ace Clubs         	17		5 Spades         	35		LIAM
+10 Clubs         	18		2 Clubs         	34		LIAM
+Ace Diamonds         	19		7 Hearts         	33		LIAM
+4 Diamonds         	20		3 Diamonds         	32		LIAM
+10 Diamonds         	21		8 Hearts         	31		LIAM
+Jack Hearts         	22		6 Hearts         	30		LIAM
+Ace Hearts         	23		9 Hearts         	29		LIAM
+5 Diamonds         	24		5 Clubs         	28		WAR!
+*****************************************WAR******************************************
+5 Diamonds         	24		5 Clubs         	28		LIAM
+***************************************END WAR****************************************
+4 Spades         	28		8 Clubs         	24		THOMAS
+King Clubs         	27		9 Spades         	25		LIAM
+3 Clubs         	28		Jack Diamonds         	24		THOMAS
+Queen Hearts         	27		7 Clubs         	25		LIAM
+2 Diamonds         	28		6 Clubs         	24		THOMAS
+8 Diamonds         	27		Ace Spades         	25		THOMAS
+5 Spades         	26		2 Hearts         	26		LIAM
+Ace Clubs         	27		6 Diamonds         	25		LIAM
+2 Clubs         	28		King Spades         	24		THOMAS
+10 Clubs         	27		3 Hearts         	25		LIAM
+7 Hearts         	28		4 Clubs         	24		LIAM
+Ace Diamonds         	29		9 Diamonds         	23		LIAM
+3 Diamonds         	30		King Hearts         	22		THOMAS
+4 Diamonds         	29		7 Spades         	23		THOMAS
+8 Hearts         	28		Jack Clubs         	24		THOMAS
+10 Diamonds         	27		Queen Clubs         	25		THOMAS
+6 Hearts         	26		2 Spades         	26		LIAM
+Jack Hearts         	27		10 Spades         	25		LIAM
+9 Hearts         	28		10 Hearts         	24		THOMAS
+Ace Hearts         	27		Queen Diamonds         	25		LIAM
+5 Diamonds         	28		3 Spades         	24		LIAM
+6 Spades         	29		5 Hearts         	23		LIAM
+4 Hearts         	30		9 Clubs         	22		THOMAS
+Queen Spades         	29		King Diamonds         	23		THOMAS
+5 Clubs         	28		4 Spades         	24		LIAM
+8 Spades         	29		8 Clubs         	23		WAR!
+*****************************************WAR******************************************
+8 Spades         	29		8 Clubs         	23		LIAM
+***************************************END WAR****************************************
+King Clubs         	33		6 Clubs         	19		LIAM
+7 Clubs         	34		8 Diamonds         	18		THOMAS
+Queen Hearts         	33		Ace Spades         	19		THOMAS
+2 Hearts         	32		2 Clubs         	20		WAR!
+*****************************************WAR******************************************
+2 Hearts         	32		2 Clubs         	20		LIAM
+***************************************END WAR****************************************
+3 Hearts         	36		4 Diamonds         	16		THOMAS
+10 Clubs         	35		7 Spades         	17		LIAM
+4 Clubs         	36		8 Hearts         	16		THOMAS
+7 Hearts         	35		Jack Clubs         	17		THOMAS
+9 Diamonds         	34		10 Diamonds         	18		THOMAS
+Ace Diamonds         	33		Queen Clubs         	19		LIAM
+2 Spades         	34		9 Hearts         	18		THOMAS
+6 Hearts         	33		10 Hearts         	19		THOMAS
+10 Spades         	32		4 Hearts         	20		LIAM
+Jack Hearts         	33		9 Clubs         	19		LIAM
+Queen Diamonds         	34		Queen Spades         	18		WAR!
+*****************************************WAR******************************************
+Queen Diamonds         	34		Queen Spades         	18		THOMAS
+***************************************END WAR****************************************
+5 Hearts         	30		Queen Hearts         	22		THOMAS
+6 Spades         	29		Ace Spades         	23		THOMAS
+4 Spades         	28		3 Hearts         	24		LIAM
+5 Clubs         	29		4 Diamonds         	23		LIAM
+8 Spades         	30		4 Clubs         	22		LIAM
+Jack Spades         	31		8 Hearts         	21		LIAM
+7 Diamonds         	32		7 Hearts         	20		WAR!
+*****************************************WAR******************************************
+7 Diamonds         	32		7 Hearts         	20		THOMAS
+***************************************END WAR****************************************
+Jack Diamonds         	28		2 Spades         	24		LIAM
+2 Diamonds         	29		9 Hearts         	23		THOMAS
+6 Clubs         	28		6 Hearts         	24		WAR!
+*****************************************WAR******************************************
+6 Clubs         	28		6 Hearts         	24		THOMAS
+***************************************END WAR****************************************
+6 Diamonds         	24		3 Spades         	28		LIAM
+Ace Clubs         	25		5 Diamonds         	27		LIAM
+2 Clubs         	26		Queen Spades         	26		THOMAS
+King Spades         	25		King Diamonds         	27		WAR!
+*****************************************WAR******************************************
+King Spades         	25		King Diamonds         	27		LIAM
+***************************************END WAR****************************************
+10 Clubs         	29		Queen Hearts         	23		THOMAS
+Queen Clubs         	28		6 Spades         	24		LIAM
+Ace Diamonds         	29		Ace Spades         	23		WAR!
+*****************************************WAR******************************************
+Ace Diamonds         	29		Ace Spades         	23		LIAM
+***************************************END WAR****************************************
+Jack Hearts         	33		3 Clubs         	19		LIAM
+3 Hearts         	34		7 Hearts         	18		THOMAS
+4 Spades         	33		Jack Clubs         	19		THOMAS
+4 Diamonds         	32		9 Diamonds         	20		THOMAS
+5 Clubs         	31		10 Diamonds         	21		THOMAS
+4 Clubs         	30		2 Diamonds         	22		LIAM
+8 Spades         	31		9 Hearts         	21		THOMAS
+8 Hearts         	30		6 Clubs         	22		LIAM
+Jack Spades         	31		King Clubs         	21		THOMAS
+2 Spades         	30		2 Hearts         	22		WAR!
+*****************************************WAR******************************************
+2 Spades         	30		2 Hearts         	22		THOMAS
+***************************************END WAR****************************************
+5 Diamonds         	26		Queen Diamonds         	26		THOMAS
+Ace Clubs         	25		Ace Hearts         	27		WAR!
+*****************************************WAR******************************************
+Ace Clubs         	25		Ace Hearts         	27		LIAM
+***************************************END WAR****************************************
+7 Spades         	29		Queen Hearts         	23		THOMAS
+King Diamonds         	28		3 Hearts         	24		LIAM
+7 Clubs         	29		7 Hearts         	23		WAR!
+*****************************************WAR******************************************
+7 Clubs         	29		7 Hearts         	23		LIAM
+***************************************END WAR****************************************
+Queen Clubs         	33		9 Diamonds         	19		LIAM
+Ace Diamonds         	34		5 Clubs         	18		LIAM
+4 Hearts         	35		10 Diamonds         	17		THOMAS
+10 Spades         	34		8 Spades         	18		LIAM
+9 Clubs         	35		9 Hearts         	17		WAR!
+*****************************************WAR******************************************
+9 Clubs         	35		9 Hearts         	17		LIAM
+***************************************END WAR****************************************
+8 Clubs         	39		Jack Diamonds         	13		THOMAS
+3 Clubs         	38		3 Spades         	14		WAR!
+*****************************************WAR******************************************
+3 Clubs         	38		3 Spades         	14		THOMAS
+***************************************END WAR****************************************
+6 Clubs         	34		6 Hearts         	18		WAR!
+*****************************************WAR******************************************
+6 Clubs         	34		6 Hearts         	18		LIAM
+***************************************END WAR****************************************
+3 Diamonds         	38		7 Spades         	14		THOMAS
+King Hearts         	37		Queen Hearts         	15		LIAM
+Ace Hearts         	38		4 Hearts         	14		LIAM
+2 Clubs         	39		10 Diamonds         	13		THOMAS
+Queen Spades         	38		8 Clubs         	14		LIAM
+10 Clubs         	39		Jack Diamonds         	13		THOMAS
+3 Hearts         	38		3 Clubs         	14		WAR!
+*****************************************WAR******************************************
+3 Hearts         	38		3 Clubs         	14		LIAM
+***************************************END WAR****************************************
+5 Hearts         	42		3 Spades         	10		LIAM
+6 Spades         	43		6 Diamonds         	9		WAR!
+*****************************************WAR******************************************
+6 Spades         	43		6 Diamonds         	9		LIAM
+***************************************END WAR****************************************
+4 Diamonds         	47		7 Spades         	5		THOMAS
+9 Diamonds         	46		2 Clubs         	6		LIAM
+Queen Clubs         	47		10 Diamonds         	5		LIAM
+5 Clubs         	48		10 Clubs         	4		THOMAS
+Ace Diamonds         	47		Jack Diamonds         	5		LIAM
+8 Spades         	48		4 Diamonds         	4		LIAM
+10 Spades         	49		7 Spades         	3		LIAM
+9 Clubs         	50		5 Clubs         	2		LIAM
+Ace Spades         	51		10 Clubs         	1		LIAM
+LIAM WINS! Congratulations!
+Play Again (Y/N): n
+Thank you for playing!
+ ----jGRASP: operation complete.

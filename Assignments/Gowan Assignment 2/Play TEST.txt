@@ -1,0 +1,276 @@
+ ----jGRASP exec: java Play
+Welcome to Connect 4!
+Player one, please enter your name: Liam
+Player two, please enter your name: Thomas
+
+Round: 1
+Liam you have red chips "R", and you move first.
+
+	 1	 2	 3	 4	 5	 6	 7
+
+1	 	 	 	 	 	 	 
+
+2	 	 	 	 	 	 	 
+
+3	 	 	 	 	 	 	 
+
+4	 	 	 	 	 	 	 
+
+5	 	 	 	 	 	 	 
+
+6	 	 	 	 	 	 	 
+
+Please input a column between 1-7: 3
+
+	 1	 2	 3	 4	 5	 6	 7
+
+1	 	 	 	 	 	 	 
+
+2	 	 	 	 	 	 	 
+
+3	 	 	 	 	 	 	 
+
+4	 	 	 	 	 	 	 
+
+5	 	 	 	 	 	 	 
+
+6	 	 	 R	 	 	 	 
+
+Thomas you have yellow chips "Y", and you move next.
+Please input a column between 1-7: 6
+
+	 1	 2	 3	 4	 5	 6	 7
+
+1	 	 	 	 	 	 	 
+
+2	 	 	 	 	 	 	 
+
+3	 	 	 	 	 	 	 
+
+4	 	 	 	 	 	 	 
+
+5	 	 	 	 	 	 	 
+
+6	 	 	 R	 	 	 Y	 
+
+
+Round: 2
+Liam it is your turn.
+Please enter a column between 1-7: 4
+
+	 1	 2	 3	 4	 5	 6	 7
+
+1	 	 	 	 	 	 	 
+
+2	 	 	 	 	 	 	 
+
+3	 	 	 	 	 	 	 
+
+4	 	 	 	 	 	 	 
+
+5	 	 	 	 	 	 	 
+
+6	 	 	 R	 R	 	 Y	 
+
+Thomas it is your turn.
+Please enter a column between 1-7: 5
+
+	 1	 2	 3	 4	 5	 6	 7
+
+1	 	 	 	 	 	 	 
+
+2	 	 	 	 	 	 	 
+
+3	 	 	 	 	 	 	 
+
+4	 	 	 	 	 	 	 
+
+5	 	 	 	 	 	 	 
+
+6	 	 	 R	 R	 Y	 Y	 
+
+
+Round: 3
+Liam it is your turn.
+Please enter a column between 1-7: 1
+
+	 1	 2	 3	 4	 5	 6	 7
+
+1	 	 	 	 	 	 	 
+
+2	 	 	 	 	 	 	 
+
+3	 	 	 	 	 	 	 
+
+4	 	 	 	 	 	 	 
+
+5	 	 	 	 	 	 	 
+
+6	 R	 	 R	 R	 Y	 Y	 
+
+Thomas it is your turn.
+Please enter a column between 1-7: 2
+
+	 1	 2	 3	 4	 5	 6	 7
+
+1	 	 	 	 	 	 	 
+
+2	 	 	 	 	 	 	 
+
+3	 	 	 	 	 	 	 
+
+4	 	 	 	 	 	 	 
+
+5	 	 	 	 	 	 	 
+
+6	 R	 Y	 R	 R	 Y	 Y	 
+
+
+Round: 4
+Liam it is your turn.
+Please enter a column between 1-7: 3
+
+	 1	 2	 3	 4	 5	 6	 7
+
+1	 	 	 	 	 	 	 
+
+2	 	 	 	 	 	 	 
+
+3	 	 	 	 	 	 	 
+
+4	 	 	 	 	 	 	 
+
+5	 	 	 R	 	 	 	 
+
+6	 R	 Y	 R	 R	 Y	 Y	 
+
+Thomas it is your turn.
+Please enter a column between 1-7: 3
+
+	 1	 2	 3	 4	 5	 6	 7
+
+1	 	 	 	 	 	 	 
+
+2	 	 	 	 	 	 	 
+
+3	 	 	 	 	 	 	 
+
+4	 	 	 Y	 	 	 	 
+
+5	 	 	 R	 	 	 	 
+
+6	 R	 Y	 R	 R	 Y	 Y	 
+
+
+Round: 5
+Liam it is your turn.
+Please enter a column between 1-7: 1
+
+	 1	 2	 3	 4	 5	 6	 7
+
+1	 	 	 	 	 	 	 
+
+2	 	 	 	 	 	 	 
+
+3	 	 	 	 	 	 	 
+
+4	 	 	 Y	 	 	 	 
+
+5	 R	 	 R	 	 	 	 
+
+6	 R	 Y	 R	 R	 Y	 Y	 
+
+Thomas it is your turn.
+Please enter a column between 1-7: 4
+
+	 1	 2	 3	 4	 5	 6	 7
+
+1	 	 	 	 	 	 	 
+
+2	 	 	 	 	 	 	 
+
+3	 	 	 	 	 	 	 
+
+4	 	 	 Y	 	 	 	 
+
+5	 R	 	 R	 Y	 	 	 
+
+6	 R	 Y	 R	 R	 Y	 Y	 
+
+
+Round: 6
+Liam it is your turn.
+Please enter a column between 1-7: 4
+
+	 1	 2	 3	 4	 5	 6	 7
+
+1	 	 	 	 	 	 	 
+
+2	 	 	 	 	 	 	 
+
+3	 	 	 	 	 	 	 
+
+4	 	 	 Y	 R	 	 	 
+
+5	 R	 	 R	 Y	 	 	 
+
+6	 R	 Y	 R	 R	 Y	 Y	 
+
+Thomas it is your turn.
+Please enter a column between 1-7: 2
+
+	 1	 2	 3	 4	 5	 6	 7
+
+1	 	 	 	 	 	 	 
+
+2	 	 	 	 	 	 	 
+
+3	 	 	 	 	 	 	 
+
+4	 	 	 Y	 R	 	 	 
+
+5	 R	 Y	 R	 Y	 	 	 
+
+6	 R	 Y	 R	 R	 Y	 Y	 
+
+
+Round: 7
+Liam it is your turn.
+Please enter a column between 1-7: 2
+
+	 1	 2	 3	 4	 5	 6	 7
+
+1	 	 	 	 	 	 	 
+
+2	 	 	 	 	 	 	 
+
+3	 	 	 	 	 	 	 
+
+4	 	 R	 Y	 R	 	 	 
+
+5	 R	 Y	 R	 Y	 	 	 
+
+6	 R	 Y	 R	 R	 Y	 Y	 
+
+Thomas it is your turn.
+Please enter a column between 1-7: 2
+
+	 1	 2	 3	 4	 5	 6	 7
+
+1	 	 	 	 	 	 	 
+
+2	 	 	 	 	 	 	 
+
+3	 	 Y	 	 	 	 	 
+
+4	 	 R	 Y	 R	 	 	 
+
+5	 R	 Y	 R	 Y	 	 	 
+
+6	 R	 Y	 R	 R	 Y	 Y	 
+
+
+THOMAS IS THE WINNER!
+Play Again? (Y/N): n
+Thanks for playing!
+ ----jGRASP: operation complete.

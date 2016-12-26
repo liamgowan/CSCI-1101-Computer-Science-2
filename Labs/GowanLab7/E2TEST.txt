@@ -1,0 +1,11 @@
+ ----jGRASP exec: java E2
+Enter words on one line, end with -1
+cows sheep moose cats mice frogs -1
+Enter words on one line, end with -1
+sheep slugs cats snails frogs -1
+[cows, sheep, moose, cats, mice, frogs]
+[sheep, slugs, cats, snails, frogs]
+Array List with common strings:
+[sheep, cats, frogs]
+
+ ----jGRASP: operation complete.

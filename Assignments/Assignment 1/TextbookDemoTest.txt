@@ -1,0 +1,30 @@
+----jGRASP exec: java TextbookDemo
+Harry Potter and the Chamber of Secrets has more pages than Harry Potter and the Philosopher's Stone.
+Harry Potter and the Philosopher's Stone is not the same as Harry Potter and the Chamber of Secrets.
+Harry Potter and the Philosopher's Stone is the same as Harry Potter and the Philosopher's Stone.
+
+Book information: 
+
+Title: Harry Potter and the Philosopher's Stone
+Author: J.K. Rowlings
+Publisher: Bloomsbury
+Year: 1997
+Number of pages: 223
+Price: $21.12
+
+Title: Harry Potter and the Chamber of Secrets
+Author: J.K. Rowlings
+Publisher: Bloomsbury
+Year: 1997
+Number of pages: 251
+Price: $22.44
+
+Title: Harry Potter and the Philosopher's Stone
+Author: J.K. Rowlings
+Publisher: Bloomsbury
+Year: 1997
+Number of pages: 223
+Price: $21.12
+
+
+ ----jGRASP: operation complete.

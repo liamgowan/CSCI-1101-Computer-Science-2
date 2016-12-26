@@ -1,0 +1,5 @@
+ ----jGRASP exec: java EncylopediaDemo
+Pages: 262
+Topics: 300
+Topics per page: 1.1450381679389312
+ ----jGRASP: operation complete.

@@ -1,0 +1,42 @@
+ 
+TEST WHEN:
+Circle c1 = new Circle(5, 5, 5);
+Circle c2 = new Circle(4, 4, 2);
+Point p1 = new Point(5,9);
+
+ ----jGRASP exec: java CircleDemo
+The area of c1 is: 78.53981633974483
+The circumference of c1 is: 31.41592653589793
+c1 can contain p1.
+p1 is not touching c1's circumference.
+c1 can contain c2.
+ ----jGRASP: operation complete.
+
+
+TEST WHEN:
+Circle c1 = new Circle(5, 5, 5);
+Circle c2 = new Circle(4, 4, 2);
+Point p1 = new Point(5,10);
+
+ ----jGRASP exec: java CircleDemo
+The area of c1 is: 78.53981633974483
+The circumference of c1 is: 31.41592653589793
+c1 cannot contain p1.
+p1 is touching c1's circumference.
+c1 can contain c2.
+ ----jGRASP: operation complete.
+
+
+
+TEST WHEN:
+Circle c1 = new Circle(5, 5, 5);
+Circle c2 = new Circle(4, 4, 10);
+Point p1 = new Point(5,10);
+
+ ----jGRASP exec: java CircleDemo
+The area of c1 is: 78.53981633974483
+The circumference of c1 is: 31.41592653589793
+c1 cannot contain p1.
+p1 is touching c1's circumference.
+c1 cannot contain c2.
+ ----jGRASP: operation complete.

@@ -1,0 +1,140 @@
+----jGRASP exec: java GameDemo
+
+Welcome to the Guessing Game. The topic is song titles.
+
+You have 6 guesses.
+Your puzzle has the following letters:
+
+
+_ _ _   _   _ _ _ _ 
+
+Round 1:
+After spinning the wheel, you got $500.
+Please guess a letter: h
+
+There is/are 1 H.
+
+H_ _   _   _ _ _ _ 
+
+Do you know the answer? (Y/N): k
+Invalid input. Please enter Y or N: 4
+Invalid input. Please enter Y or N: n
+
+Your jackpot is $500
+You have 5 guesses left.
+
+Round 2:
+After spinning the wheel, you got $500.
+Please guess a letter: o
+
+There is/are 2 O.
+
+HO_   _   _ O_ _ 
+
+Do you know the answer? (Y/N): n
+
+Your jackpot is $1500
+You have 4 guesses left.
+
+Round 3:
+After spinning the wheel, you got $500.
+Please guess a letter: o
+Sorry, there are no O's.
+HO_   _   _ O_ _ 
+
+Do you know the answer? (Y/N): y
+
+What is it: hot n cold
+
+Great guess! You win $1500
+Play again (Y/N): y
+
+Welcome to the Guessing Game. The topic is celebrities.
+
+You have 6 guesses.
+Your puzzle has the following letters:
+
+
+_ _ _ _ _ _ _   _ _ _ _ _ _ 
+
+Round 1:
+After spinning the wheel, you got $200.
+Please guess a letter: m
+Sorry, there are no M's.
+_ _ _ _ _ _ _   _ _ _ _ _ _ 
+
+Do you know the answer? (Y/N): b
+Invalid input. Please enter Y or N: n
+
+Your jackpot is $0
+You have 5 guesses left.
+
+Round 2:
+After spinning the wheel, you got $200.
+Please guess a letter: b
+
+There is/are 1 B.
+
+B_ _ _ _ _ _   _ _ _ _ _ _ 
+
+Do you know the answer? (Y/N): n
+
+Your jackpot is $200
+You have 4 guesses left.
+
+Round 3:
+After spinning the wheel, you got $500.
+Please guess a letter: r
+
+There is/are 2 R.
+
+BR_ _ _ _ _   _ _ _ _ R_ 
+
+Do you know the answer? (Y/N): n
+
+Your jackpot is $1200
+You have 3 guesses left.
+
+Round 4:
+After spinning the wheel, you got $100.
+Please guess a letter: i
+
+There is/are 1 I.
+
+BRI_ _ _ _   _ _ _ _ R_ 
+
+Do you know the answer? (Y/N): n
+
+Your jackpot is $1300
+You have 2 guesses left.
+
+Round 5:
+After spinning the wheel, you got $100.
+Please guess a letter: t
+
+There is/are 1 T.
+
+BRIT_ _ _   _ _ _ _ R_ 
+
+Do you know the answer? (Y/N): n
+
+Your jackpot is $1400
+You have 1 guesses left.
+
+Round 6:
+After spinning the wheel, you got $200.
+Please guess a letter: a
+
+There is/are 1 A.
+
+BRIT_ _ _   _ _ _ AR_ 
+
+Do you know the answer? (Y/N): n
+
+WRONG! The answer was BRITNEY SPEARS. You lose $1600
+Play again (Y/N): a
+
+Invalid response. Please Enter Y or N: n
+
+Thanks for playing!
+ ----jGRASP: operation complete.

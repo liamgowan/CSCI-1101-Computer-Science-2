@@ -1,0 +1,11 @@
+ ----jGRASP exec: java Demo
+Tacos-->Bears-->Cats-->Trees-->Vines-->Ice-->Bears-->Bears-->Cat-->.
+Bears appears: 3 time(s)
+Cats appears: 1 time(s)
+Lasanga appears: 0 time(s)
+The last index of Bears is 7
+The last index of Cactus is -1
+Not in list
+Tacos-->Cats-->Trees-->Vines-->Ice-->Cat-->.
+
+ ----jGRASP: operation complete.

@@ -1,0 +1,10 @@
+ ----jGRASP exec: java HighSchoolDemo
+School Name: Eastern Shore District High
+Number of students: 500
+
+School Name: Eastern Shore District High School
+Number of students: 501
+Principal: Patrick Savage
+Number of teachers: 30
+Ratio of students to teachers: 0.059880239520958084
+ ----jGRASP: operation complete.

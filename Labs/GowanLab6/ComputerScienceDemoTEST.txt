@@ -1,0 +1,45 @@
+ ----jGRASP exec: java ComputerScienceDemo
+Enter mark for student 1: 67.65
+Enter mark for student 2: 75.9
+Enter mark for student 3: 70
+Enter mark for student 4: 65.8
+Enter mark for student 5: 89.6
+Enter mark for student 6: 99.99
+Enter mark for student 7: 100
+Enter mark for student 8: 34.5
+Enter mark for student 9: 7.6
+Enter mark for student 10: 87
+Enter mark for student 11: 93
+Enter mark for student 12: 58
+Enter mark for student 13: 87
+Enter mark for student 14: 58
+Enter mark for student 15: 75
+
+Course name: CSCI 1101
+Instructor Bonnie MacKay
+Average Final Grade: 71.26933333333334
+Number of Grades: 15
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ComputerScienceDemo
+Enter mark for student 1: 78
+Enter mark for student 2: 65
+Enter mark for student 3: 45
+Enter mark for student 4: 78
+Enter mark for student 5: 98
+Enter mark for student 6: 78
+Enter mark for student 7: 99
+Enter mark for student 8: 78
+Enter mark for student 9: 65
+Enter mark for student 10: 37
+Enter mark for student 11: 86
+Enter mark for student 12: 58
+Enter mark for student 13: 64
+Enter mark for student 14: 46
+Enter mark for student 15: 73
+
+Course name: CSCI 1101
+Instructor Bonnie MacKay
+Average Final Grade: 69.86666666666666
+Number of Grades: 15
+ ----jGRASP: operation complete.

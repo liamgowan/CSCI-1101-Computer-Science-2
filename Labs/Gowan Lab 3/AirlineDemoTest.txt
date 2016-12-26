@@ -1,0 +1,12 @@
+ ----jGRASP exec: java AirlineDemo
+
+Sorry, Vomit Comit cannot hold any more passeners.
+Gowan Jet has a fleet of 3 planes.
+Planes Vomit Comit, Flight 815, and Liam's Plane have a total of 1184 passengers
+
+Sorry, Flight 815 only has room for 76 more passengers on board.
+Percentage full: 69.37%
+Liam's Plane has the most seats.
+
+Gowan Jet has 3 planes in total, and 1214 passengers in total.
+ ----jGRASP: operation complete.

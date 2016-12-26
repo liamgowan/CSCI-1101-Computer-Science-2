@@ -1,0 +1,4 @@
+ ----jGRASP exec: java PaliChecker Please enter a word or phrase: Liam Gowan Liam Gowan is not a palindrome.  ----jGRASP: operation complete.
+
+ ----jGRASP exec: java PaliChecker Please enter a word or phrase: A man, a plan, a cat, a ham, a yak, a yam, a hat, a canal-Panama! A man, a plan, a cat, a ham, a yak, a yam, a hat, a canal-Panama! is a palindrome.  ----jGRASP: operation complete.
+ ----jGRASP exec: java PaliChecker Please enter a word or phrase:  /"!,?-;:.kayak  /"!,?-;:.kayak is a palindrome.  ----jGRASP: operation complete. 

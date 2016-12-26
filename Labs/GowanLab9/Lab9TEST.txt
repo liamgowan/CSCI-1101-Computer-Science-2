@@ -1,0 +1,12 @@
+ ----jGRASP exec: java Demo
+***EXERCISE ONE***
+A-->B-->C-->D-->.
+B-->D-->E-->F-->.
+A-->B-->D-->E-->F-->.
+***EXERCISE TWO***
+A-->B-->D-->E-->F-->.
+[A, B, D, E, F]
+***EXERCISE THREE***
+A-->B-->C-->D-->E-->.
+
+ ----jGRASP: operation complete.

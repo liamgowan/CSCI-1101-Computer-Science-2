@@ -1,0 +1,10 @@
+ ----jGRASP exec: java E1
+Enter the first set of integers on one line, end with -1
+52 45 2 8 67 23 -1
+
+Enter the second set of integers on one line, end with -1
+45 9 2 57 21 -1
+
+Array List with different Integers:
+[52, 8, 67, 23, 9, 57, 21]
+ ----jGRASP: operation complete.

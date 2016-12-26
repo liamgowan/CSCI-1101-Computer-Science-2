@@ -1,0 +1,15 @@
+ ----jGRASP exec: java ArrayListCheck
+Enter words on one line, end with -1
+hello hello hello hello hello hello turkey hello hello hello -1
+
+Array List with no duplicates: 
+[hello, turkey]
+ ----jGRASP: operation complete.
+
+ ----jGRASP exec: java ArrayListCheck
+Enter words on one line, end with -1
+Liam Thomas Jenny Liam Liam Katie Katie Thomas Frank Liam Frank -1
+
+Array List with no duplicates: 
+[Liam, Thomas, Jenny, Katie, Frank]
+ ----jGRASP: operation complete.

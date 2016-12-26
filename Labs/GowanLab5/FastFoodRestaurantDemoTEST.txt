@@ -1,0 +1,7 @@
+ ----jGRASP exec: java FastFoodRestaurantDemo
+Welcome to Chicken Burger with 68 seats. Best Burgers Ever!
+
+
+Restaurant name: Chicken Burger
+Number of seats: 34
+ ----jGRASP: operation complete.
